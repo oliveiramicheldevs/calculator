@@ -1,4 +1,4 @@
-# Desenvolvemos uma calculadora, usando diversas packages. -Logo iremos começar a trabalhar no UI dela. 
+# Desenvolvemos uma calculadora. -Logo iremos começar a trabalhar no UI dela. 
 
 [![Youtube](https://img.shields.io/static/v1?label=oliveiramsdevs&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)](https://www.youtube.com/@oliveiramicheldevs)
 
