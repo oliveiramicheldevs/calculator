@@ -1,16 +1,19 @@
-# calculadora
+# Desenvolvemos uma calculadora, usando diversas packages. -Logo iremos começar a trabalhar no UI dela. 
 
-Calculadora
+[![Youtube](https://img.shields.io/static/v1?label=oliveiramsdevs&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)](https://www.youtube.com/@oliveiramicheldevs)
 
-## Getting Started
+[![Twitter Follow](https://img.shields.io/twitter/follow/oliveiramsdevs?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/oliveiramsdevs)
 
-This project is a starting point for a Flutter application.
+<a href="https://www.buymeacoffee.com/oliveiradevs"><img src="https://img.buymeacoffee.com/button-api/?text=Compre-me um café&emoji=&slug=oliveiradevs&button_colour=5F7FFF&font_colour =ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+    
+### ⚡&ensp;Social Media
 
-A few resources to get you started if this is your first Flutter project:
+[<img align="center" alt="MichelOliveira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]( https://twitter.com/oliveiramsdevs "Twitter Michel Oliveira")&ensp;Twitter: [@oliveiramicheldevs](https://twitter.com/oliveiramsdevs "Twitter Michel Oliveira")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[<img align="center" alt="MichelOliveira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/micheloliveiras "Linkedin Michel Oliveira")&ensp;Linkedin: [@oliveiramicheldevs](https://www.linkedin.com/in/micheloliveiras/ "Linkedin Michel Oliveira")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+[<img align="center" alt="MichelOliveira | Cafezinho " width="22px" src="https://aux.iconspalace.com/uploads/coffee-icon-256.png" />](https://www.buymeacoffee.com/oliveiradevs "Pague um Café para Michel Oliveira")&ensp;Vai um Cafézin: [@oliveiramicheldevs](https://www.buymeacoffee.com/oliveiradevs "Pague um Café para Michel Oliveira")
+
+
